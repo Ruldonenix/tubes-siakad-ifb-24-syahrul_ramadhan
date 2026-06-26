@@ -1,6 +1,6 @@
 # Sistem Informasi Akademik Sederhana
 
-Aplikasi Sistem Informasi Akademik atau SIAKAD sederhana berbasis Laravel. Aplikasi ini dibuat untuk memenuhi Tugas Besar Mata Kuliah Web II IF53413.
+Aplikasi SIAKAD sederhana berbasis Laravel yang dibuat untuk memenuhi Tugas Besar Mata Kuliah Pemrograman Web Lanjut.
 
 Aplikasi menyediakan pengelolaan data dosen, mahasiswa, mata kuliah, jadwal perkuliahan, serta Kartu Rencana Studi (KRS).
 
