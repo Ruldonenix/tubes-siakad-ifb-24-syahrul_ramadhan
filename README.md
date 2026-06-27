@@ -109,6 +109,9 @@ Digunakan mahasiswa untuk melihat jadwal perkuliahan yang tersedia.
 
 Digunakan mahasiswa untuk mengambil mata kuliah, melihat KRS, drop mata kuliah, dan mengunduh KRS dalam format PDF.
 
+## LINK HOSTING
+[https://tubes-siakad-ifb-24-syahrulramadhan-production.up.railway.app](https://tubes-siakad-ifb-24-syahrulramadhan-production.up.railway.app)
+
 ## Akun Demo
 
 ### Admin
@@ -124,3 +127,4 @@ Password : Admin12345!
 Email    : mahasiswa@siakad.test
 Password : Mahasiswa12345!
 ```
+note: saya tidak memasukkan data-data nya di seeder, jadi datanya dimasukan manual lewat si app siakad nya langsung
